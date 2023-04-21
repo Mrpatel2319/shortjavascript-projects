@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.form{
+    width: 50%;
+    background-color: whitesmoke;
+    padding: 20px;
+    box-shadow: 5px 10px 10px  1px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+#input{
+    font-size: 25px;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border: solid 2px;
+    font-family: cursive;
+    border-radius: 5px;
+}
+#btn{
+    background-color: green;
+    display: inline;
+    text-align: center;
+    width: 50%;
+    margin: 5px;
+    padding: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15px;
+    border-radius: 20px;
+}
+
